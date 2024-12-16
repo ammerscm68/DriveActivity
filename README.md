@@ -1,2 +1,2 @@
-# Software LED for Drive Activityon. Place on the Win Traybar.
-The Function is self-Explanatory
+# Software LED for Drive Activity. Place on the Win Traybar.
+The Function is Self-Explanatory
